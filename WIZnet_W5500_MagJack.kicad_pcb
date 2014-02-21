@@ -12,13 +12,13 @@
     (nets 36)
   )
 
-  (page User 431.8 279.4)
+  (page User 150.012 110.007)
   (title_block 
     (title "WIZnet W5500 MagJack")
     (rev 2)
     (company "by Open Music Kontrollers (www.open-music-kontrollers.ch)")
     (comment 1 "Licensed under CERN OHL v.1.2")
-    (comment 2 "Copyright (c) 2013 Hanspeter portner (dev@open-music-kontrollers.ch)")
+    (comment 2 "Copyright (c) 2014 Hanspeter portner (dev@open-music-kontrollers.ch)")
   )
 
   (layers
@@ -73,9 +73,9 @@
     (aux_axis_origin 12 12)
     (visible_elements FFFFFFBF)
     (pcbplotparams
-      (layerselection 284196865)
+      (layerselection 284721153)
       (usegerberextensions true)
-      (excludeedgelayer false)
+      (excludeedgelayer true)
       (linewidth 0.150000)
       (plotframeref false)
       (viasonmask false)
