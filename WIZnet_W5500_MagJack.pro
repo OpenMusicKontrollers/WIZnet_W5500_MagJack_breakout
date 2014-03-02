@@ -1,14 +1,16 @@
-update=Son 02 Mär 2014 11:46:54 CET
+update=Son 02 Mär 2014 17:39:15 CET
 version=1
-last_client=kicad
+last_client=pcbnew
 [cvpcb]
 version=1
 NetIExt=net
 [cvpcb/libraries]
 EquName1=devcms
+[general]
+version=1
 [eeschema]
 version=1
-LibDir=../libs
+LibDir=../kicad_libs
 NetFmtName=PcbnewAdvanced
 RptD_X=0
 RptD_Y=100
@@ -52,10 +54,10 @@ LibName33=W5500
 version=1
 LastNetListRead=WIZnet_W5500_MagJack.net
 UseCmpFile=1
-PadDrill="    1.000000"
-PadDrillOvalY="    1.000000"
-PadSizeH="    1.600000"
-PadSizeV="    1.600000"
+PadDrill="    3.200000"
+PadDrillOvalY="    3.200000"
+PadSizeH="    3.200000"
+PadSizeV="    3.200000"
 PcbTextSizeV="    1.000000"
 PcbTextSizeH="    1.000000"
 PcbTextThickness="    0.300000"
@@ -68,7 +70,7 @@ DrawSegmentWidth="    0.200000"
 BoardOutlineThickness="    0.150000"
 ModuleOutlineThickness="    0.150000"
 [pcbnew/libraries]
-LibDir=../mods
+LibDir=../kicad_mods
 LibName1=sockets
 LibName2=connect
 LibName3=discret
@@ -83,5 +85,3 @@ LibName11=valves
 LibName12=LQFP48
 LibName13=XTAL_532
 LibName14=MagJack
-[general]
-version=1

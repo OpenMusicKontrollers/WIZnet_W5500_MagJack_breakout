@@ -99,7 +99,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory ../gerber/WIZnet_W5500_MagJack/rev2/))
+      (outputdirectory ./release/))
   )
 
   (net 0 "")
